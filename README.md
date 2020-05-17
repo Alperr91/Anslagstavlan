@@ -1,8 +1,16 @@
-## Welcome to GitHub Pages
+## Länksamling av Jobbsökmotorer
 
-You can use the [editor on GitHub](https://github.com/Alperr91/Anslagstavlan/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+För att få tillgång till dessa dokument så måste du ha ett Gmail konto!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1.[Min egna länksamling av jobbsökmotorer](https://drive.google.com/file/d/1w4dI7M9Re2PRdoUEsnW4xhyx-l4jRdjh/view?usp=sharing)
+
+2.[TRR:s länksamling av jobbsökmotorer](https://drive.google.com/file/d/1JfsvKhnib37bMbGejKuCrgAgw-4clWgo/view?usp=sharing)
+
+## CV-tips och LinkedinTips
+
+(https://drive.google.com/file/d/1QdSYyLsUEqhrCGkDVpsZdHGHZe_OxO8P/view?usp=sharing)
+
+
 
 ### Markdown
 
