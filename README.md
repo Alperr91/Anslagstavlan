@@ -8,8 +8,6 @@ För att få tillgång till dessa dokument så måste du ha ett Gmail konto!
 
 ## CV-tips och LinkedinTips
 
-(https://drive.google.com/file/d/1QdSYyLsUEqhrCGkDVpsZdHGHZe_OxO8P/view?usp=sharing)
-
 
 
 ### Markdown
